@@ -1,2 +1,3 @@
 # phonegaptest
-test
+phonegap+vue_test
+
